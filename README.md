@@ -6,7 +6,7 @@
 ```
 git help -a
 ```
-2. Make a fork of your repo.
+2. Make a fork of this repo with your user.
 
 ## Normal operation: Add new telephone
 
