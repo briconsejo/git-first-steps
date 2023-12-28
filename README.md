@@ -39,7 +39,6 @@ git push
 
 1. switch to a NEW branch (`-b` param )
 ```
-git checkout --help
 git checkout -b mybranch
 ```
 
@@ -68,7 +67,6 @@ git log
 
 1. switch to a NEW branch (`-b` param )
 ```
-git checkout --help
 git checkout -b mybranch
 ```
 
