@@ -86,4 +86,3 @@ git commit -m "I just added a new phone number"
 
 
 
-## Pull Request Operation: make changes via manual merge and push
